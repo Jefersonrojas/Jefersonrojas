@@ -1,4 +1,4 @@
-<h1 align="center">Hola!!! 👋 Binevenidos al perfil de Jeferson Rojas </h1>
+<h1 align="center">Hola!!! 👋 Bienvenidos al perfil de Jeferson Rojas </h1>
 
 ###
 

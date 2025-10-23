@@ -134,7 +134,7 @@
   <a href="mailto:heiser.rojas@upch.pe" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://buymeacoffee.com/edwinjaraoz" target="_blank">
+  <a href="https://buymeacoffee.com/heiserrojar" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>

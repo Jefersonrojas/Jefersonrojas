@@ -143,3 +143,9 @@
 - ⚡ Escribo ideas y soluciones en mi **portafolio personal**: 
 
 ## 📈 Estadísticas de GitHub
+<p align="center">
+  <a href="https://github.com/EdwinJaraOFC">
+    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&card_width=100&locale=en&show_icons=true&theme=dark&rank_icon=github"/>
+    <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonrojas&theme=dark&layout=compact&hide=c%2B%2B,jupyter%20notebook"/>
+  </a>
+</p>

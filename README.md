@@ -93,10 +93,7 @@
 
 ###
 
-
-###
-
-
+### 🌐 Conecta conmigo
 <p align="center">
   <a href="https://Jefersonrojas.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
@@ -115,11 +112,12 @@
 
 ## 🚀 Trayectoria Profesional
 
-- 🌱  **React** .
-- 👯 Busco colaborar en proyectos que generen un **impacto social positivo**.
-- 🤔 Me interesa aprender más sobre **diseño de aplicaciones web**.
-- 💬 Pregúntame sobre **desarrollo web**. Estaré encantado de ayudar.
-- ⚡ Escribo ideas y soluciones en mi **portafolio personal**: 
+- 🌱 Actualmente perfeccionando mis habilidades en **React** y desarrollo frontend moderno.  
+- 👯 Abierto a colaborar en proyectos que generen un **impacto social positivo** y fomenten la innovación tecnológica.  
+- 🤔 Interesado en profundizar en **diseño y arquitectura de aplicaciones web escalables**.  
+- 💬 Si tienes dudas o curiosidad sobre **desarrollo web**, estaré encantado de compartir lo que sé y aprender contigo.  
+- ⚡ Comparto ideas, proyectos y soluciones en mi **[portafolio personal](https://tu-portafolio.com)** — un espacio donde documento mi aprendizaje y evolución como **desarrollador Full Stack**.  
+
 
 ## 📈 Estadísticas de GitHub
 <p align="center">

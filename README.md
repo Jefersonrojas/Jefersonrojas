@@ -121,7 +121,7 @@
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <a href="https://github.com/EdwinJaraOFC">
+  <a href="https://github.com/Jefersonrojas">
     <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&card_width=100&locale=en&show_icons=true&theme=dark&rank_icon=github"/>
     <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonrojas&theme=dark&layout=compact&hide=c%2B%2B,jupyter%20notebook"/>
   </a>
@@ -132,8 +132,6 @@
   <img src="https://streak-stats.demolab.com?user=Jefersonrojas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Jefersonrojas&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-
 
 
 

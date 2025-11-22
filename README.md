@@ -95,7 +95,7 @@
 
 ### 🌐 Conecta conmigo
 <p align="center">
-  <a href="https://Jefersonrojas.github.io" target="_blank">
+  <a href="https://mi-perfil-five.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   </a>
   <a href="https://www.linkedin.com/in/heiserjefersonrojasburgos/" target="_blank">
@@ -116,7 +116,7 @@
 - 👯 Abierto a colaborar en proyectos que generen un **impacto social positivo** y fomenten la innovación tecnológica.  
 - 🤔 Interesado en profundizar en **diseño y arquitectura de aplicaciones web escalables**.  
 - 💬 Si tienes dudas o curiosidad sobre **desarrollo web**, estaré encantado de compartir lo que sé y aprender contigo.  
-- ⚡ Comparto ideas, proyectos y soluciones en mi **[portafolio personal](https://tu-portafolio.com)** — un espacio donde documento mi aprendizaje y evolución como **desarrollador Full Stack**.  
+- ⚡ Comparto ideas, proyectos y soluciones en mi **[portafolio personal](https://mi-perfil-five.vercel.app/)** — un espacio donde documento mi aprendizaje y evolución como **desarrollador Full Stack**.  
 
 
 ## 📈 Estadísticas de GitHub

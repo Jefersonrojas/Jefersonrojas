@@ -1,9 +1,133 @@
 <h1 align="center">Hola!!! 👋 Bienvenidos al perfil de Jeferson Rojas </h1>
+
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+;Hi💎I'm+JefersonRojas.+💻;Backend+Developer+in+Java+☕;Spring+Boot+🔁" 
+       alt="Welcome to my profile, I'm Jeferson Rojas., Backend Developer in Java, Front-end, Spring Boot Expert">
+</p>
+
+  <h2 align="center"></h2>
+
+</div>
+
 <h3 align="center">Ingeniero Informático en Formación, Desarrollador de Soware </h3>
 
-###
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Jefersonrojas=Profile%20views&color=ff00ff&style=flat" alt="Jefersonrojas" />
+</p>
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%83%91%E3%83%96%E3%83%AD%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+</a>
+</div>
 
 ## 👨🏻‍💻 Stack Tecnológico
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Icon" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="./gif/java.gif" height="40" alt="Java Icon" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL Icon" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Icon" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman Icon" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Icon" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML Icon" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS Icon" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap Icon" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Icon" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown Icon" />
+      <br>Markdown
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress Icon" />
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Icon" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma Icon" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva Icon" />
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello Icon" />
+      <br>Trello
+    </td>
+  </tr>
+</table>
+
+<br>
+
+</p>
+
 
 <div align="center">
   <table align="center" width="100%" border="0">
@@ -110,16 +234,37 @@
 </p>
 
 
+
+
 ## 🚀 Trayectoria Profesional
 
 - 🌱 Actualmente perfeccionando mis habilidades en **React** y desarrollo frontend moderno.  
 - 👯 Abierto a colaborar en proyectos que generen un **impacto social positivo** y fomenten la innovación tecnológica.  
 - 🤔 Interesado en profundizar en **diseño y arquitectura de aplicaciones web escalables**.  
 - 💬 Si tienes dudas o curiosidad sobre **desarrollo web**, estaré encantado de compartir lo que sé y aprender contigo.  
-- ⚡ Comparto ideas, proyectos y soluciones en mi **[portafolio personal](https://mi-perfil-five.vercel.app/)** — un espacio donde documento mi aprendizaje y evolución como **desarrollador Full Stack**.  
+- ⚡ Comparto ideas, proyectos y soluciones en mi **[portafolio personal](https://mi-perfil-five.vercel.app/)** — un espacio donde documento mi aprendizaje y evolución como **desarrollador Full Stack**. 
+
+
 
 
 ## 📈 Estadísticas de GitHub
+
+<div>
+  <p align="center">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jefersonrojas&theme=redical">
+    </a>
+    <a href="https://github-readme-stats.vercel.app">
+      <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&count_private=true&theme=neon&show_icons=true&hide_border=false">
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+      <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jefersonrojas&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
+    </a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img width="120%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jefersonrojas&theme=2077">
+    </a>
+  
+
 <p align="center">
   <a href="https://github.com/Jefersonrojas">
     <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&card_width=100&locale=en&show_icons=true&theme=dark&rank_icon=github"/>
@@ -128,16 +273,12 @@
 </p>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jefersonrojas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Jefersonrojas&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jefersonrojas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jefersonrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
+
